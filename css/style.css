@@ -1096,7 +1096,7 @@ Footer
 .footer-line {
     background-color: var(--clr-grey);
     height: 2px;
-    width: 100vw;
+    width: 200vw;
 }
 
 .footer-end {

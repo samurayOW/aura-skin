@@ -1026,6 +1026,7 @@ Footer
     background-color: black;
     color: var(--clr-grey-light);
     padding-bottom: 0;
+    overflow: hidden;
 }
 
 .footer li a {
